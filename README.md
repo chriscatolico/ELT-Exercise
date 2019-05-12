@@ -18,5 +18,5 @@ Created data frames from extracts and cleaned columns, titles, and values.
 
 *Load*
 
-The final database where the data frames were uploaded as tables was accomplished using sqlite. This database type was chosen because
-sqlalchemy works easily with pandas.
+The final database where the dataframes were uploaded as tables was accomplished using sqlite. This database type was chosen because
+it is relational and sqlalchemy works easily with pandas.
